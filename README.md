@@ -1,11 +1,7 @@
 # Cleaning-Data
 general cleaning data code with a case study.
 
-Cleaning Data
-
-just a general code to analyis and clean data
-
-Getting Started
+# Getting Started
 
 1. Download a dataset
 	case study in main.py:
@@ -14,7 +10,7 @@ Getting Started
 
 2. apply code
 
-Prerequisites
+# Prerequisites
 
 python libs:
 	pandas
@@ -22,17 +18,16 @@ python libs:
 	re
 	matplotlib
 
-
-Built With
+# Built With
 
     python 3.5
     sublime
 
-License
+# License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
 
-Acknowledgments
+# Acknowledgments
 
     Datacamp : cleaning data in python
     (in this code a different dataset from in course was used) 
